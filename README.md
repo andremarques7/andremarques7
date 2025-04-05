@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Andre Marques 👋</h1>
+<h1 align="center">Olá! Eu sou o Andrê Marques 👋</h1>
 <p align="center">💡 Transformando lógica em soluções reais, um commit por vez.</p>
 
 ---
